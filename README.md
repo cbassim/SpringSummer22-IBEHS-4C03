@@ -1,4 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbassim/SpringSummer22-IBEHS-4C03/HEAD)
+# SpringSummer22 IBEHS 4C03
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/cbassim/SpringSummer22-IBEHS-4C03/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbassim/SpringSummer22-IBEHS-4C03/HEAD)
