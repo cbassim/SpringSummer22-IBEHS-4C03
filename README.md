@@ -1,2 +1,4 @@
-# IBEHS_4C03_Winter22
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbassim/IBEHS_4C03_Winter22/HEAD)
+# SpringSummer IBEHS 4C03
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbassim/SpringSummer22-IBEHS-4C03/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/cbassim/SpringSummer22-IBEHS-4C03/HEAD
